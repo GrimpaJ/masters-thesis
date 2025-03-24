@@ -1,0 +1,444 @@
+app_name;position;users;total_usage;relative_usage;mean_daily_usage;rank_users;rank_total_usage;rank_relative_usage;rank_mean_daily;total_score;name;subcategory;category;relevance
+com.instagram.android;1;22;21078.6478;958.1203545;78.06906593;434;443;439;434;1750;Instagram;social;social;yes
+com.zhiliaoapp.musically;2;13;20246.58752;1557.429809;128.9591562;426;442;440;439;1747;TikTok;social;social;yes
+com.whatsapp;3;24;14098.69052;587.4454382;45.47964683;440;441;435;429;1745;WhatsApp;communication;social;yes
+com.google.android.youtube;4;22;7127.43325;323.9742386;41.92607794;434;440;431;427;1732;YouTube;video;entertainment;yes
+com.android.chrome;5;24;6766.4199;281.9341625;24.51601413;440;439;427;414;1720;Chrome;browser;tools;no
+com.facebook.katana;6;10;2802.0012;280.20012;29.49474947;418;437;426;421;1702;Facebook;social;social;yes
+com.netflix.mediaclient;7;10;1887.84665;188.784665;38.52748265;418;433;417;424;1692;Netflix;video;entertainment;yes
+com.sec.android.app.launcher;8;9;2420.212767;268.9125296;19.67652656;412;435;424;403;1674;Launcher;system;system;no
+com.facebook.orca;9;6;1571.970517;261.9950861;41.36764518;385;429;422;426;1662;Facebook Messenger;communication;social;yes
+com.ethica.logger;10;24;2936.026;122.3344167;9.532551948;440;438;399;367;1644;Ethica;tools;tools;no
+com.pinterest;11;10;777.3600333;77.73600333;16.53957518;418;422;382;393;1615;Pinterest;social;social;yes
+com.snapchat.android;12;12;1116.683517;93.05695972;10.24480291;425;427;390;372;1614;Snapchat;social;social;yes
+com.spotify.music;13;22;1823.091017;82.86777348;8.031237959;434;431;388;353;1606;Spotify;audio;entertainment;yes
+com.samsung.android.incallui;14;9;858.4780333;95.38644815;11.6010545;412;425;392;376;1605;Telefon;communication;social;yes
+fr.vinted;15;5;772.0827167;154.4165433;17.54733447;372;421;407;395;1595;Vinted;cloths;shopping;yes
+com.google.android.googlequicksearchbox;16;22;1815.13395;82.50608864;7.2605358;434;430;386;344;1594;Google Suche;browser;tools;no
+com.miui.home;17;6;810.0596333;135.0099389;10.12574542;385;423;403;371;1582;Mi Home;system;system;no
+health.mentalis.android.phoenix;18;24;1262.579167;52.60746528;7.256202107;440;428;367;343;1578;iCAN;health_management;health;yes
+com.tellm.android.app;19;8;573.7926333;71.72407917;8.564069154;402;418;379;362;1561;Jodel;social;social;yes
+com.huawei.android.launcher;20;4;597.2018333;149.3004583;10.85821515;350;419;406;373;1548;Launcher;system;system;no
+com.adobe.lrmobile;21;3;404.0469333;134.6823111;26.93646222;320;408;401;415;1544;Photoshop;design;creativity;yes
+com.roblox.client;22;3;467.2489167;155.7496389;19.46870486;320;412;408;400;1540;Roblox;games;games;yes
+com.supercell.clashofclans;22;2;490.9093167;245.4546583;37.76225513;282;414;421;423;1540;Clash of Clans;games;games;yes
+com.google.android.dialer;23;7;538.7878;76.96968571;7.380654795;395;417;381;345;1538;Phone;communication;social;yes
+com.amazon.mShop.android.shopping;24;8;400.2792833;50.03491042;8.339151736;402;406;365;358;1531;Amazon Shopping;shopping;shopping;yes
+com.amazon.avod.thirdpartyclient;25;6;211.6628167;35.27713611;17.63856806;385;387;357;396;1525;Amazon Prime Video;video;entertainment;yes
+com.google.android.apps.docs;26;16;400.5079167;25.03174479;7.853096405;428;407;337;351;1523;Google Drive;cloud;tools;yes
+com.sec.android.app.sbrowser;27;7;464.98725;66.42675;7.15365;395;411;375;341;1522;Samsung Browser;browser;tools;no
+com.android.incallui;28;7;378.8819833;54.12599762;7.429058497;395;405;368;347;1515;Telefon;communication;social;yes
+com.duolingo;29;2;342.7628;171.3814;22.85085333;282;402;414;410;1508;Duolingo;education;education;yes
+com.twitter.android;30;4;378.1956667;94.54891667;8.404348148;350;404;391;360;1505;Twitter;social;social;yes
+com.reddit.frontpage;31;3;299.6148833;99.87162778;14.2673754;320;401;393;390;1504;Reddit;social;social;yes
+com.ebay.kleinanzeigen;32;5;243.1444833;48.62889667;9.725779333;372;391;364;368;1495;ebay Kleinanzeigen;shopping;shopping;yes
+com.mojang.minecraftpe;32;2;260.8205167;130.4102583;28.98005741;282;395;400;418;1495;Minecraft;games;games;yes
+com.miui.gallery;33;6;352.5449167;58.75748611;6.651790881;385;403;372;333;1493;Gallerie;picture;creativity;yes
+com.google.android.apps.maps;34;21;427.0209333;20.33433016;5.08358254;432;410;329;313;1484;Google Maps;travel;everyday;yes
+com.sec.android.gallery3d;35;9;415.0846833;46.12052037;4.415794504;412;409;363;299;1483;Gallerie;picture;creativity;yes
+com.google.android.apps.photos;36;7;260.5198667;37.21712381;5.920906061;395;394;359;325;1473;Google Photos;picture;creativity;yes
+com.picsart.studio;37;6;152.19105;25.365175;11.70700385;385;372;338;377;1472;Picsart: AI Photo Video Editor ;design;creativity;yes
+com.disney.disneyplus;38;5;143.0385333;28.60770667;8.939908333;372;370;344;364;1450;Disney+;video;entertainment;yes
+com.samsung.android.app.notes;39;6;211.4269;35.23781667;5.563865789;385;386;356;319;1446;Notizen;productivity;productivity;yes
+com.samsung.android.calendar;40;8;255.0563167;31.88203958;4.113811559;402;393;352;293;1440;Kalender;productivity;productivity;yes
+com.bereal.ft;41;3;238.2753333;79.42511111;6.807866667;320;389;383;335;1427;BeReal;social;social;yes
+com.miui.notes;41;4;205.9839;51.495975;6.05835;350;385;366;326;1427;Xiaomi Notes;productivity;productivity;yes
+com.android.deskclock;42;10;246.9132333;24.69132333;2.545497251;418;392;336;249;1395;Uhr;system;system;no
+com.google.android.deskclock;43;3;189.9876833;63.32922778;5.134802252;320;382;374;314;1390;Uhr;system;system;no
+com.yazio.android;44;2;142.2217;71.11085;7.901205556;282;368;378;352;1380;YAZIO Kalorienzähler & Diät;nutrition;health;yes
+org.telegram.messenger;45;9;180.34245;20.03805;2.908749194;412;380;326;261;1379;Telegram;communication;social;yes
+org.thoughtcrime.securesms;46;5;142.6872833;28.53745667;3.754928509;372;369;343;278;1362;Signal;communication;social;yes
+com.familywall;47;2;83.07295;41.536475;8.307295;282;351;362;357;1352;FamilyWall - Familienplaner;productivity;productivity;yes
+com.android.gallery3d;48;4;121.3741667;30.34354167;3.915295699;350;365;349;287;1351;Gallerie;picture;creativity;yes
+de.web.mobile.android.mail;49;4;118.3118667;29.57796667;3.816511828;350;362;346;285;1343;WEB.DE;communication;social;yes
+com.google.android.keep;50;5;101.6617167;20.33234333;3.910066026;372;356;328;286;1342;Google Keep - Notes and Lists;productivity;productivity;yes
+com.microsoft.office.outlook;51;4;114.0050833;28.50127083;3.800169444;350;361;342;283;1336;Outlook;communication;social;yes
+com.google.android.gm;52;19;220.5503667;11.60791404;1.853364426;429;388;287;230;1334;G Mail;communication;social;yes
+com.lge.clock;53;1;2507.924217;2507.924217;250.7924217;1;436;443;443;1323;Uhr;system;system;no
+com.upjers.molehillempire2;54;1;2084.361033;2084.361033;160.3354641;1;434;442;441;1318;Molehill Empire 2;games;games;yes
+de.hafas.android.db;54;8;100.9847833;12.62309792;3.257573656;402;355;293;268;1318;DB Navigator;travel;everyday;yes
+com.dopuz.klotski.riddle;55;1;1824.4486;1824.4486;140.3422;1;432;441;440;1314;Numpuz: Zahlen Spiele & Rätsel;games;games;yes
+com.microsoft.office.officehubrow;56;2;46.2888;23.1444;9.25776;282;330;332;365;1309;Microsoft 365 (Office);work;productivity;yes
+com.ebay.mobile;57;2;61.82731667;30.91365833;6.869701852;282;338;351;336;1307;Ebay;shopping;shopping;yes
+com.playrix.homescapes;58;1;948.9188;948.9188;86.26534545;1;426;438;437;1302;Homescapes;games;games;yes
+de.gmx.mobile.android.mail;59;2;82.75758333;41.37879167;4.597643519;282;350;361;303;1296;GMX;communication;social;yes
+com.gramgames.mergedragons;60;1;843.9224833;843.9224833;64.9171141;1;424;437;432;1294;Merge Dragons!;games;games;yes
+com.kingsgroup.sos;61;1;696.316;696.316;69.6316;1;420;436;433;1290;State of Survival: Zombie War;games;games;yes
+com.plato.android;62;1;511.83235;511.83235;56.87026111;1;416;434;430;1281;Plato: Fun Multiplayer Spiele;games;games;yes
+net.manta.comic;62;1;484.2553;484.2553;80.70921667;1;413;432;435;1281;Manta: Comics & Graphic Novels;books;entertainment;yes
+com.niksoftware.snapseed;63;1;507.42375;507.42375;42.2853125;1;415;433;428;1277;Snapseed;design;creativity;yes
+com.sec.android.app.camera;64;8;109.19255;13.64906875;1.475575;402;359;304;209;1274;Kamera;picture;creativity;yes
+com.android.calendar;65;4;65.66315;16.4157875;2.854919565;350;339;314;259;1262;Kalender;productivity;productivity;yes
+de.mocama.UniNow;66;5;67.65338333;13.53067667;2.332875287;372;342;301;246;1261;UniNow;productivity;productivity;yes
+com.huawei.camera;67;4;76.25313333;19.06328333;2.060895495;350;343;324;240;1257;Kamera;picture;creativity;yes
+com.google.android.apps.messaging;68;10;78.70691667;7.870691667;1.749042593;418;345;260;225;1248;Messages;communication;social;yes
+de.zalando.mobile;69;3;50.98958333;16.99652778;3.642113095;320;332;318;275;1245;Zalando;cloths;shopping;yes
+com.amazon.dee.app;70;2;35.1141;17.55705;5.85235;282;319;320;323;1244;Amazon Alexa;home;everyday;yes
+com.nianticlabs.pokemongo;71;1;299.3744833;299.3744833;23.02880641;1;400;430;411;1242;Pokemon Go;games;games;yes
+com.canva.editor;72;1;265.3430667;265.3430667;29.48256296;1;396;423;420;1240;Canva;design;creativity;yes
+com.android.dialer;73;1;295.99505;295.99505;22.76885;1;399;429;409;1238;Telefon;communication;social;yes
+com.android.settings;74;23;168.6299833;7.331738406;0.887526228;438;377;254;168;1237;Einstellungen-App;system;system;no
+com.game.kkiruk.myadorablecats;74;1;172.6079667;172.6079667;172.6079667;1;379;415;442;1237;Cats are Cute;games;games;yes
+com.sec.android.app.clockpackage;74;9;101.90455;11.32272778;1.061505729;412;357;285;183;1237;Uhr;system;system;no
+com.goodgamestudios.bitlife.de.deutsch.life.simulation;75;1;186.9131;186.9131;93.45655;1;381;416;438;1236;BitLife DE - Lebenssimulation;games;games;yes
+com.android.launcher;76;1;294.84005;294.84005;22.68000385;1;398;428;408;1235;Launcher;system;system;no
+de.mcdonalds.mcdonaldsinfoapp;76;6;32.46195;5.410325;4.637421429;385;315;230;305;1235;McDonalds;food;everyday;yes
+com.google.android.apps.docs.editors.docs;77;3;34.67856667;11.55952222;4.954080952;320;317;286;311;1234;Google Docs;work;productivity;yes
+easy.sudoku.puzzle.solver.free;78;1;191.2442667;191.2442667;63.74808889;1;383;418;431;1233;Sudoku;games;games;yes
+com.yopeso.lieferando;79;5;37.63596667;7.527193333;3.763596667;372;325;256;279;1232;Lieferando;food;everyday;yes
+com.htc.launcher;80;1;279.7012;279.7012;21.51547692;1;397;425;407;1230;Launcher;system;system;no
+com.google.android.calendar;81;11;82.65073333;7.51370303;1.311916402;424;348;255;201;1228;Kalender;productivity;productivity;yes
+com.tumblr;82;1;242.7488;242.7488;24.27488;1;390;420;413;1224;Tumblr;social;social;yes
+com.sec.android.mimage.photoretouching;83;7;40.01638333;5.71662619;3.078183333;395;327;236;264;1222;Samsung Photo Editor;design;creativity;yes
+com.android.camera;84;6;58.036;9.672666667;1.488102564;385;335;277;210;1207;Kamera;picture;creativity;yes
+me.tsukanov.counter;85;1;165.0439833;165.0439833;27.50733056;1;375;411;416;1203;Counter;tools;tools;no
+com.camerasideas.trimmer;86;1;199.5648833;199.5648833;18.14226212;1;384;419;398;1202;YouCut - Video Bearbeiten;design;creativity;yes
+com.samsung.android.app.reminder;87;3;47.06511667;15.68837222;1.882604667;320;331;311;233;1195;Samsung Reminder;productivity;productivity;yes
+com.app.tgtg;88;4;37.30326667;9.325816667;2.194309804;350;324;275;245;1194;Too Good To Go;food;everyday;yes
+com.colt;89;1;163.6429833;163.6429833;20.45537292;1;374;410;406;1191;GALATEA: Bücher & Hörbücher;books;entertainment;yes
+com.radiosonline.countryradiofm;90;1;139.6915;139.6915;27.9383;1;367;404;417;1189;Country Radio FM;audio;entertainment;yes
+com.ubisoft.hungrysharkworld;91;1;120.273;120.273;40.091;1;364;398;425;1188;Hungry Shark World;games;games;yes
+com.android.mms;92;3;27.80531667;9.268438889;3.972188095;320;305;273;289;1187;MMS Dienst;communication;social;no
+com.nike.ntc;93;1;159.5280167;159.5280167;17.72533519;1;373;409;397;1180;Nike Training Club: Übungen;fitness;health;yes
+com.lexsuperior.app;94;1;84.26476667;84.26476667;84.26476667;1;352;389;436;1178;gesetze.io - Jura digital;education;education;yes
+com.bigbluebubble.singingmonsters.full;95;1;170.8817;170.8817;13.14474615;1;378;413;384;1176;My Singing Monsters;games;games;yes
+com.samsung.android.messaging;96;6;30.35916667;5.059861111;2.759924242;385;310;222;256;1173;Messages;communication;social;yes
+com.google.android.apps.nexuslauncher;97;1;167.36675;167.36675;12.87436538;1;376;412;383;1172;Pixel Launcher;system;system;no
+com.supercell.clashroyale;98;1;120.04;120.04;20.00666667;1;363;397;404;1165;Clash Royale;games;games;yes
+com.zzkko;99;1;134.9540667;134.9540667;16.86925833;1;366;402;394;1163;SHEIN-Shopping Online;cloths;shopping;yes
+com.naver.linewebtoon;100;2;26.20691667;13.10345833;3.743845238;282;302;296;276;1156;WEBTOON;books;entertainment;yes
+com.sec.android.app.shealth;100;4;31.85683333;7.964208333;1.873931373;350;313;261;232;1156;Samsung Health;tracker;health;yes
+com.paypal.android.p2pmobile;101;8;36.25086667;4.531358333;1.647766667;402;321;213;219;1155;PayPal;finance;everyday;yes
+com.myfitnesspal.android;102;1;147.0702833;147.0702833;11.31309872;1;371;405;375;1152;MyFitnessPal: Kalorien Tracker;nutrition;health;yes
+com.android.vending;103;23;92.39225;4.017054348;0.733271825;438;353;204;154;1149;Playstore;system;system;no
+com.mi.android.globalFileexplorer;103;3;30.9375;10.3125;1.93359375;320;312;280;237;1149;Mi File Manager;system;system;yes
+com.discord;104;6;36.08141667;6.013569444;1.288622024;385;320;241;197;1143;Discord;social;social;yes
+tv.twitch.android.app;105;3;19.05508333;6.351694444;3.811016667;320;290;245;284;1139;Twitch;video;entertainment;yes
+app.eduroam.geteduroam;106;2;14.1167;7.05835;7.05835;282;266;251;339;1138;Eduroam;tools;tools;no
+com.okcupid.okcupid;107;1;59.33906667;59.33906667;29.66953333;1;337;373;422;1133;OkCupid;dating;social;yes
+com.android.contacts;108;7;40.08116667;5.725880952;0.835024306;395;328;237;165;1125;Kontakte;communication;social;yes
+at.ner.SolitaireKlondike;109;1;108.0648;108.0648;9.824072727;1;358;395;370;1124;Solitär - Deutsch;games;games;yes
+com.cricut.designspace;109;1;76.65525;76.65525;19.1638125;1;344;380;399;1124;Design Space: DIY with Cricut;design;creativity;yes
+com.lemon.lvoverseas;110;1;79.98575;79.98575;15.99715;1;346;384;392;1123;CapCut - Videoeditor;design;creativity;yes
+de.transfermarkt.v2;111;1;113.9485;113.9485;8.765269231;1;360;396;363;1120;Transfermarkt Fußballdatenbank;sport;everyday;yes
+com.fluffyfairygames.idleminertycoon;112;1;82.70903333;82.70903333;11.81557619;1;349;387;379;1116;Idle Miner Tycoon: Mehr Geld!;games;games;yes
+com.linkedin.android;113;2;24.9821;12.49105;1.9217;282;301;292;236;1111;LinkedIn;social;social;yes
+com.example.android.notepad;114;2;23.4271;11.71355;2.129736364;282;296;288;244;1110;Notepad;tools;tools;yes
+com.samsung.android.dialer;115;8;37.02168333;4.627710417;0.771285069;402;323;214;161;1100;Telefon;communication;social;yes
+com.sillens.shapeupclub;116;2;15.18111667;7.590558333;3.795279167;282;274;257;280;1093;Lifesum;nutrition;health;yes
+com.biglime.cookingmadness;117;1;67.05315;67.05315;11.175525;1;340;376;374;1091;Cooking Madness: Kochspiel;games;games;yes
+com.easybrain.sudoku.android;118;1;39.30816667;39.30816667;19.65408333;1;326;360;402;1089;Sudoku.com - Classic Sudoku;games;games;yes
+com.motorola.launcher3;118;1;100.01095;100.01095;7.143639286;1;354;394;340;1089;Launcher;system;system;no
+com.google.android.apps.translate;119;2;11.55515;5.777575;5.777575;282;247;238;321;1088;Google Translate;tools;tools;no
+com.comuto;120;2;16.78645;8.393225;2.797741667;282;282;266;257;1087;BlaBlaCar: Bus- und Mitfahrten;travel;everyday;yes
+de.tellonym.app;120;1;81.30723333;81.30723333;8.130723333;1;347;385;354;1087;Tellonym;social;social;yes
+com.android.systemui;121;13;41.80206667;3.21554359;0.57263105;426;329;190;137;1082;SystemUI;system;system;no
+com.kongregate.mobile.stormbound.google;122;1;29.26598333;29.26598333;29.26598333;1;307;345;419;1072;Stormbound: PVP Card Battle;games;games;yes
+com.asos.app;123;1;58.7089;58.7089;8.386985714;1;336;371;359;1067;ASOS;cloths;shopping;yes
+com.starfinanz.smob.android.sfinanzstatus;123;5;23.92945;4.78589;1.04041087;372;299;218;178;1067;Sparkasse;finance;everyday;yes
+de.fcbayern.android;123;1;67.34581667;67.34581667;7.482868519;1;341;377;348;1067;FC Bayern München;sport;everyday;yes
+de.burgerking.kingfinder;124;3;13.43298333;4.477661111;3.358245833;320;260;212;272;1064;Burger King;food;everyday;yes
+io.state.fight;125;1;36.68846667;36.68846667;12.22948889;1;322;358;382;1063;State.io — Erobere die Welt;games;games;yes
+cn.wps.moffice_eng;126;1;57.96618333;57.96618333;8.280883333;1;334;370;356;1061;WPS Office;work;productivity;yes
+com.miui.videoplayer;127;5;21.68971667;4.337943333;1.032843651;372;294;210;177;1053;Mi Video;video;entertainment;yes
+com.kaufland.Kaufland;128;2;14.16155;7.080775;2.360258333;282;267;253;247;1049;Kaufland;groceries;shopping;yes
+com.google.android.apps.cultural;129;1;23.5123;23.5123;23.5123;1;297;333;412;1043;Google Arts & Culture;design;creativity;yes
+com.duckduckgo.mobile.android;130;1;57.76146667;57.76146667;6.417940741;1;333;369;328;1031;DuckDuckGo Private Browser;browser;tools;no
+de.dominos.android;131;1;20.19461667;20.19461667;20.19461667;1;292;327;405;1025;Dominos;food;everyday;yes
+com.miui.mediaeditor;132;3;18.56853333;6.189511111;0.977291228;320;288;242;173;1023;Xiaomi Gallery Editor;design;creativity;yes
+com.appseleration.android.selfcare;133;4;11.7264;2.9316;1.9544;350;249;182;239;1020;MeinVodafone;tools;tools;no
+com.mintgames.triplecrush.tile.fun;134;1;19.58663333;19.58663333;19.58663333;1;291;325;401;1018;Tile Fun - Triple Puzzle Game;games;games;yes
+com.mi.globalbrowser;135;4;15.05625;3.7640625;1.2546875;350;273;199;195;1017;Mi Browser;browser;tools;no
+ch.publisheria.bring;136;1;23.62626667;23.62626667;11.81313333;1;298;334;378;1011;Bring! Einkaufsliste & Rezepte;food;everyday;yes
+com.ecosia.android;137;1;29.59363333;29.59363333;7.398408333;1;308;347;346;1002;Ecosia;browser;tools;no
+breastenlarger.bodyeditor.photoeditor;138;1;32.14326667;32.14326667;6.428653333;1;314;353;329;997;Body Editor- Körper Bearbeiten;design;creativity;yes
+gallery.photomanager.picturegalleryapp.imagegallery;139;1;34.94325;34.94325;5.823875;1;318;355;322;996;photo gallery album;picture;creativity;yes
+com.samsung.android.app.contacts;140;8;16.457;2.057125;0.632961538;402;279;162;144;987;Kontakte;communication;social;yes
+com.huawei.browser;141;1;27.9779;27.9779;6.994475;1;306;341;338;986;Huawei Browser;browser;tools;no
+de.dhl.paket;142;3;12.94206667;4.314022222;1.294206667;320;255;209;198;982;DHL;tools;tools;no
+nu.tommie.inbrowser;143;1;15.22725;15.22725;15.22725;1;275;310;391;977;InBrowser - Inkognito Surfen;browser;tools;no
+de.ourbudget.adfree;144;1;26.35051667;26.35051667;6.587629167;1;303;339;331;974;Unser Haushaltsbuch Pro;finance;everyday;yes
+de.dm.meindm.android;145;2;11.3064;5.6532;1.4133;282;246;235;208;971;Mein DM;groceries;shopping;yes
+com.groverapp;146;1;29.9018;29.9018;4.983633333;1;309;348;312;970;Grover - rent tech flexibly;groceries;shopping;yes
+com.htc.flashlight;147;1;21.70673333;21.70673333;7.235577778;1;295;331;342;969;Tschenlampe;tools;tools;no
+com.sec.android.daemonapp;147;4;11.29925;2.8248125;1.255472222;350;245;178;196;969;Unified Daemon;system;system;no
+com.google.android.documentsui;148;8;14.83305;1.85413125;0.593322;402;271;152;140;965;Dateien;system;system;yes
+com.hyperkani.bomberfriends;148;1;17.1209;17.1209;8.56045;1;284;319;361;965;Bomber Friends;games;games;yes
+com.magicv.airbrush;148;1;14.18245;14.18245;14.18245;1;268;307;389;965;AirBrush: KI Fotobearbeitung;design;creativity;yes
+com.huawei.calculator;149;3;9.835383333;3.278461111;1.639230556;320;236;192;216;964;Taschenrechner;tools;tools;no
+de.rossmann.app.android;149;3;9.094333333;3.031444444;1.818866667;320;230;186;228;964;Rossmann;groceries;shopping;yes
+com.dropbox.android;150;2;10.10953333;5.054766667;1.684922222;282;237;221;221;961;Dropbox;cloud;tools;yes
+com.jctswbglsm.SwipeAway;151;1;14.02305;14.02305;14.02305;1;265;306;388;960;Tap Away;games;games;yes
+tr.com.apps.how.many;152;1;13.58493333;13.58493333;13.58493333;1;262;302;387;952;Wie viele - Trivia Spiel;games;games;yes
+com.tinyco.potter;153;1;13.44945;13.44945;13.44945;1;261;300;386;948;Harry Potter: Hogwarts Mystery;games;games;yes
+com.miui.securitycenter;154;5;15.01195;3.00239;0.428912857;372;272;183;120;947;Xiaomi Security;system;system;no
+com.yy.musicfm.global;155;1;24.08765;24.08765;4.81753;1;300;335;309;945;Free Music-Listen to mp3 songs;audio;entertainment;yes
+app.dogorama;156;1;30.37855;30.37855;3.79731875;1;311;350;281;943;Dogorama App – Die Hunde-Community;social;social;yes
+com.nixgames.psycho_tests;157;1;13.16608333;13.16608333;13.16608333;1;257;297;385;940;Psychologische Tests.;lifesytle;everyday;yes
+com.miui.calculator;158;5;12.44053333;2.488106667;0.565478788;372;253;171;136;932;Taschenrechner;tools;tools;no
+com.microsoft.skydrive;159;2;10.18101667;5.090508333;1.131224074;282;238;223;186;929;OneDrive;cloud;tools;no
+com.samsung.android.lool;160;3;8.41295;2.804316667;1.402158333;320;224;176;207;927;Gerätewartung;system;system;no
+com.microsoft.office.word;161;2;8.20975;4.104875;1.64195;282;221;205;218;926;MS Word;work;productivity;yes
+com.sec.android.app.popupcalculator;161;4;10.61203333;2.653008333;0.758002381;350;241;175;160;926;Taschenrechner;tools;tools;no
+com.kwalee.transformhunt;162;1;12.2016;12.2016;12.2016;1;252;291;381;925;Hunt & Seek;games;games;yes
+com.samsung.android.email.provider;163;1;34.4858;34.4858;2.652753846;1;316;354;253;924;Samsung Email;communication;social;yes
+com.wordgame.newcross.android.de;164;1;11.88328333;11.88328333;11.88328333;1;250;289;380;920;Wörter Los! - Kreuzworträtsel;games;games;yes
+com.google.android.apps.fitness;165;3;8.456616667;2.818872222;1.208088095;320;225;177;192;914;Google Fit;tracker;health;yes
+com.google.android.gms;165;21;15.81315;0.753007143;0.219627083;432;277;113;92;914;Google Play-Dienste;system;system;no
+android;166;20;17.63473333;0.881736667;0.149446893;430;285;120;73;908;Android;system;system;no
+com.motorola.camera3;167;1;26.74801667;26.74801667;2.972001852;1;304;340;262;907;Kamera;picture;creativity;yes
+com.pikpok.wtd.play;167;1;13.79168333;13.79168333;6.895841667;1;264;305;337;907;Clusterduck;games;games;yes
+com.finch.finch;168;1;18.99535;18.99535;3.79907;1;289;323;282;895;Finch: Self-Care Pet (Selfcare);selfcare;health;yes
+de.taxfix;169;1;13.22283333;13.22283333;6.611416667;1;258;298;332;889;Taxfix: Online Steuererklärung;finance;everyday;yes
+com.huawei.search;170;3;10.26488333;3.421627778;0.540257018;320;239;194;133;886;Suche;system;system;no
+com.zombodroid.MemeGenerator;170;1;14.41695;14.41695;4.80565;1;269;308;308;886;Meme Generator;design;creativity;yes
+com.leapgs.tess;171;1;9.78215;9.78215;9.78215;1;235;279;369;884;Where's Tess;games;games;yes
+de.tk.tkapp;172;1;13.00308333;13.00308333;6.501541667;1;256;295;330;882;TK;health_management;health;no
+com.android.phone;173;3;5.531466667;1.843822222;1.382866667;320;201;151;205;877;Telefon;communication;social;yes
+com.icare.iweight;174;1;9.36005;9.36005;9.36005;1;233;276;366;876;AFit Health;tracker;health;yes
+com.htc.android.worldclock;175;1;17.94858333;17.94858333;2.991430556;1;287;322;263;873;Uhr;system;system;no
+com.tinder;176;1;13.61151667;13.61151667;4.537172222;1;263;303;302;869;Tinder;dating;social;yes
+workoutforwomen.femalefitness.womenworkout.loseweight;176;1;12.13205;12.13205;6.066025;1;251;290;327;869;Workout für Frauen;fitness;health;yes
+de.mit.sgd.apollon;177;1;16.64705;16.64705;3.32941;1;281;316;270;868;APOLLON Campus App;productivity;productivity;yes
+com.getsomeheadspace.android;178;1;20.90128333;20.90128333;2.090128333;1;293;330;242;866;Headspace: Meditation & Schlaf;selfcare;health;yes
+de.flixbus.app;179;2;4.957533333;2.478766667;1.652511111;282;192;170;220;864;Flixbus;travel;everyday;yes
+com.tksolution.einkaufszettelmitspracheingabe;180;1;16.20321667;16.20321667;3.240643333;1;278;313;266;858;Einkaufszettel Spracheingabe;food;everyday;yes
+com.microsoft.teams;181;2;6.149066667;3.074533333;1.024844444;282;207;188;176;853;MS Teams;productivity;productivity;yes
+com.marktguru.mg2.de;182;1;12.93093333;12.93093333;4.310311111;1;254;294;298;847;Marktguru;groceries;shopping;yes
+com.google.android.permissioncontroller;183;20;11.68191667;0.584095833;0.139070437;430;248;98;70;846;Berechtigungscontroller;system;system;no
+cc.dict.dictcc;184;1;10.91393333;10.91393333;5.456966667;1;243;283;317;844;Dict.cc;education;education;yes
+com.bumble.app;184;1;16.57271667;16.57271667;2.367530952;1;280;315;248;844;Bumble;dating;social;yes
+com.qidian.Int.reader;185;1;15.74531667;15.74531667;2.624219444;1;276;312;252;841;WebNovel;books;entertainment;yes
+com.google.android.apps.wellbeing;186;3;3.938083333;1.312694444;1.312694444;320;176;142;202;840;Digital Wellbeing;system;system;yes
+com.plantjammer.plantjammer;186;1;10.774;10.774;5.387;1;242;282;315;840;Plant Jammer Rezepte;food;everyday;yes
+de.edeka.genuss;186;1;8.186816667;8.186816667;8.186816667;1;220;264;355;840;Edeka Genuss App;groceries;shopping;yes
+com.google.android.GoogleCamera;187;1;17.72436667;17.72436667;1.772436667;1;286;321;226;834;Kamera;picture;creativity;yes
+com.oneandone.controlcenter;188;1;7.784133333;7.784133333;7.784133333;1;217;259;350;827;1&1 Control-Center;tools;tools;no
+de.deutschlandcard.app;189;1;7.777483333;7.777483333;7.777483333;1;216;258;349;824;Deutschland Card;shopping;shopping;yes
+com.lge.launcher3;190;1;16.89341667;16.89341667;1.689341667;1;283;317;222;823;Launcher;system;system;no
+com.google.android.apps.youtube.music;191;1;13.38761667;13.38761667;2.677523333;1;259;299;254;813;YouTube Music;audio;entertainment;yes
+com.sec.android.app.myfiles;192;4;4.666316667;1.166579167;0.583289583;350;186;136;139;811;Samsung My Files;productivity;productivity;yes
+com.takimi.android;193;1;9.256466667;9.256466667;4.628233333;1;231;272;304;808;Taimi - LGBTQ+ Dating und Chat;dating;social;yes
+com.supercell.brawlstars;194;1;11.23225;11.23225;3.744083333;1;244;284;277;806;Brawl Stars;games;games;yes
+com.vbg.mobilityinside;195;1;8.890166667;8.890166667;4.445083333;1;229;271;301;802;Mobility Inside;travel;everyday;yes
+com.europosit.pixelcoloring;196;1;6.722783333;6.722783333;6.722783333;1;213;249;334;797;Pixel Art - Malen nach Zahlen;games;games;yes
+com.samsung.android.app.dressroom;196;4;3.6264;0.9066;0.72528;350;172;123;152;797;Samsung Dressroom;lifesytle;everyday;yes
+com.YGameStudios.LawyersLegacy;197;1;8.612683333;8.612683333;4.306341667;1;228;270;297;796;HerrAnwalt: Lawyers Legacy;games;games;yes
+com.hm.goe;197;1;10.5965;10.5965;3.532166667;1;240;281;274;796;H&M;cloths;shopping;yes
+com.android.browser;198;1;14.44401667;14.44401667;1.604890741;1;270;309;214;794;Browser;browser;tools;no
+com.google.android.captiveportallogin;199;9;5.288066667;0.587562963;0.195854321;412;196;99;86;793;Captive Portal Login;system;system;no
+com.skype.raider;199;1;8.604033333;8.604033333;4.302016667;1;227;269;296;793;Skype;communication;social;yes
+com.android.documentsui;200;3;3.309716667;1.103238889;0.827429167;320;167;131;164;782;Dokumente;work;productivity;yes
+com.google.android.calculator;201;3;3.896216667;1.298738889;0.649369444;320;175;140;146;781;Taschenrechner;tools;tools;no
+com.google.android.contacts;202;7;4.43645;0.633778571;0.233497368;395;185;103;94;777;Kontakte;communication;social;yes
+com.tier.app;203;1;8.067066667;8.067066667;4.033533333;1;218;262;292;773;TIER E-Scooter & E-Roller;travel;everyday;yes
+org.metopera;204;1;5.880866667;5.880866667;5.880866667;1;206;240;324;771;Met Opera on Demand;video;entertainment;yes
+com.gma.water.sort.puzzle;205;1;5.65085;5.65085;5.65085;1;204;234;320;759;Water Sort Puzzle;games;games;yes
+com.tuya.smartlife;206;1;8.588533333;8.588533333;2.862844444;1;226;268;260;755;Smart Life - Smart Living;home;everyday;no
+com.lightricks.facetune.free;207;1;5.54155;5.54155;5.54155;1;202;232;318;753;Facetune KI-Fotobearbeitung;design;creativity;yes
+com.microsoft.office.onenote;208;1;5.410016667;5.410016667;5.410016667;1;199;229;316;745;MS OneNote;productivity;productivity;yes
+com.djo.apps.abi_planer;209;1;9.294383333;9.294383333;1.858876667;1;232;274;231;738;AbiPlaner -Abitur & Oberstufe;productivity;productivity;yes
+com.kavalrigames.etg;209;1;8.11455;8.11455;2.70485;1;219;263;255;738;Equestrian the Game;games;games;yes
+wp.wattpad;209;1;7.0395;7.0395;3.51975;1;214;250;273;738;Wattpad;books;entertainment;yes
+com.android.captiveportallogin;210;4;2.856183333;0.714045833;0.40802619;350;159;110;118;737;Netzwerkmanagement;system;system;no
+com.thehungrywasp.iamsober;211;2;4.0981;2.04905;0.341508333;282;180;160;108;730;I Am Sober;tracker;health;yes
+de.commerzbanking.mobil;212;1;8.259666667;8.259666667;2.064916667;1;222;265;241;729;Commerzbank;finance;everyday;yes
+com.pax.app;213;1;6.554966667;6.554966667;3.277483333;1;211;247;269;728;PAX Mobile (Vape);lifesytle;everyday;yes
+com.android.settings.intelligence;214;5;2.531066667;0.506213333;0.361580952;372;151;92;112;727;Android System Intelligence;system;system;no
+de.hafas.android.nahsh;215;1;6.497066667;6.497066667;3.248533333;1;210;246;267;724;NAH SH;travel;everyday;yes
+com.Hirameku.IQDungeon;216;1;4.940266667;4.940266667;4.940266667;1;191;220;310;722;IQ Dungeon;games;games;yes
+org.codeaurora.snapcam;217;1;6.221083333;6.221083333;3.110541667;1;208;243;265;717;Google Kamera-App;picture;creativity;yes
+com.n3twork.tetris;218;1;4.757783333;4.757783333;4.757783333;1;189;217;307;714;Tetris;games;games;yes
+com.samsung.android.app.galaxyfinder;219;3;2.785733333;0.928577778;0.348216667;320;157;125;109;711;Samsung Finder;system;system;no
+photo.editor.photoeditor.filtersforpictures;220;1;4.722566667;4.722566667;4.722566667;1;187;215;306;709;Bilder Bearbeiten - Lumii;design;creativity;yes
+com.bonial.kaufda;221;1;6.2735;6.2735;2.091166667;1;209;244;243;697;kaufDA - Prospekte & Angebote;groceries;shopping;yes
+com.oneplus.camera;221;1;9.736883333;9.736883333;1.081875926;1;234;278;184;697;Kamera;picture;creativity;yes
+com.ea.gp.fifamobile;222;1;4.416766667;4.416766667;4.416766667;1;184;211;300;696;EA SPORTS FC Mobile Fußball;games;games;yes
+de.rki.covpass.app;223;1;5.639466667;5.639466667;2.819733333;1;203;233;258;695;CovPass;health_management;health;yes
+com.starfinanz.mobile.android.pushtan;224;3;2.120916667;0.706972222;0.424183333;320;143;109;119;691;Sparkasse -pushTAN;tools;tools;no
+com.huawei.HwMultiScreenShot;225;3;2.664416667;0.888138889;0.204955128;320;156;122;88;686;Scrollshot;system;system;no
+com.zaful;226;1;4.168433333;4.168433333;4.168433333;1;182;207;295;685;ZAFUL - Meine Modegeschichte;cloths;shopping;yes
+org.eurail.railplanner;227;1;4.126633333;4.126633333;4.126633333;1;181;206;294;682;Eurail/Interrail Rail Planer;travel;everyday;yes
+com.samsung.android.app.spage;228;3;2.653583333;0.884527778;0.176905556;320;155;121;81;677;Spage;news;news;yes
+com.samsung.android.app.sharelive;229;1;3.981;3.981;3.981;1;179;203;291;674;Quick Share;system;system;no
+com.android.keepass;230;1;3.972883333;3.972883333;3.972883333;1;178;202;290;671;KeePassDroid;tools;tools;no
+com.smule.singandroid;230;1;5.168466667;5.168466667;2.584233333;1;194;225;251;671;Smule: Karaoke Sing & Record;games;games;yes
+com.kayac.level_up_number;231;1;5.094016667;5.094016667;2.547008333;1;193;224;250;668;Number Master: Run and merge;games;games;yes
+com.shazam.android;231;2;2.318116667;1.159058333;0.289764583;282;148;135;103;668;Shazam;tools;tools;yes
+com.android.mediacenter;232;3;1.525633333;0.508544444;0.508544444;320;127;93;127;667;Media-Center;audio;entertainment;yes
+com.kiloo.subwaysurf;232;1;3.945383333;3.945383333;3.945383333;1;177;201;288;667;Subway Surfers;games;games;yes
+de.mail.android.mailapp;233;1;5.5131;5.5131;1.8377;1;200;231;229;661;mail.de Mail;communication;social;yes
+com.tractive.android.gps;234;1;8.397233333;8.397233333;0.933025926;1;223;267;169;660;Tractive GPS für Hund & Katze;home;everyday;no
+com.huawei.himovie.overseas;235;2;1.382433333;0.691216667;0.691216667;282;122;107;148;659;HUAWEI Video;video;entertainment;yes
+com.miui.cleanmaster;236;2;1.760866667;0.880433333;0.440216667;282;131;119;122;654;Cleaner;system;system;no
+com.huawei.android.internal.app;237;4;2.3352;0.5838;0.089815385;350;149;97;57;653;Launcher;system;system;no
+com.samsung.android.app.telephonyui;238;2;1.2079;0.60395;0.60395;282;115;101;142;640;UI;system;system;no
+com.gun.shot.sound;239;1;3.342783333;3.342783333;3.342783333;1;168;193;271;633;Gun Sounds : Gun Simulator;games;games;yes
+com.outfit7.mytalkingangelafree;240;1;4.9207;4.9207;1.640233333;1;190;219;217;627;Meine Talking Angela;games;games;yes
+com.google.android.packageinstaller;241;10;1.043033333;0.104303333;0.057946296;418;106;53;49;626;Package Installer;system;system;no
+com.miui.global.packageinstaller;241;4;1.621766667;0.405441667;0.095398039;350;129;87;60;626;MIUI Package Installer;system;system;no
+com.astropampa.efemeridesastropampa;242;1;7.075983333;7.075983333;0.707598333;1;215;252;150;618;Astrology Ephemeris;lifesytle;everyday;yes
+de.rki.coronawarnapp;243;4;1.330183333;0.332545833;0.110848611;350;120;81;65;616;Corona Warnapp;health_management;health;yes
+de.prosiebensat1digital.seventv;244;2;1.1849;0.59245;0.394966667;282;114;100;116;612;Joyn;video;entertainment;yes
+com.tasks.android;245;1;6.623016667;6.623016667;0.551918056;1;212;248;134;595;Aufgaben: Aufgabenliste;productivity;productivity;yes
+com.bjoernbartels.mylove;246;1;5.302183333;5.302183333;0.883697222;1;198;228;167;594;My Love - Beziehungsrechner;lifesytle;everyday;yes
+jp.ne.ibis.ibispaintx.app;246;1;3.560766667;3.560766667;1.780383333;1;170;196;227;594;ibis Paint X ;design;creativity;yes
+com.cronometer.android.gold;247;1;3.4916;3.4916;1.7458;1;169;195;224;589;Cronometer - Kalorien-Zähler;nutrition;health;yes
+com.mobisystems.mobiscanner;248;1;5.292116667;5.292116667;0.756016667;1;197;227;158;583;MobiPDF: PDF-Editor & -Scanner;work;productivity;yes
+com.samsung.android.forest;249;4;0.943683333;0.235920833;0.094368333;350;102;69;59;580;Digital Wellbeing;tracker;health;yes
+com.wetter.androidclient;250;1;5.177766667;5.177766667;0.739680952;1;195;226;156;578;Wetter;weather;news;yes
+com.fontskeyboard.fonts;251;1;5.799633333;5.799633333;0.527239394;1;205;239;130;575;Fonts Keyboard;personalization;creativity;no
+com.temperature.checker.thermometer.app;251;1;4.7253;4.7253;0.94506;1;188;216;170;575;Thermometer;tools;tools;no
+com.samsung.android.bixby.agent;252;3;1.1675;0.389166667;0.089807692;320;113;85;56;574;Bixby;system;system;no
+com.tripledot.woodoku;252;1;3.886983333;3.886983333;1.295661111;1;174;200;199;574;Woodoku;games;games;yes
+de.aboutyou.mobile.app;253;1;4.181883333;4.181883333;1.045470833;1;183;208;179;571;ABOUT YOU Mode Online Shop;cloths;shopping;yes
+com.teacapps.barcodescanner;254;2;0.717883333;0.358941667;0.358941667;282;93;83;110;568;QR & Barcode Scanner;tools;tools;no
+com.kapidhvaj.textrepeater;255;1;3.03995;3.03995;1.519975;1;164;187;212;564;Text-Repeater Text Wiederholen;tools;tools;yes
+com.airmap.airmap;256;1;3.0295;3.0295;1.51475;1;163;185;211;560;AirMap for Drones;tools;tools;no
+com.huawei.scanner;256;2;0.944433333;0.472216667;0.188886667;282;103;91;84;560;Scanner;tools;tools;no
+com.google.android.inputmethod.latin;257;5;0.405266667;0.081053333;0.050658333;372;78;49;46;545;Gboard - the Google Keyboard;system;system;no
+com.samsung.android.honeyboard;258;2;0.532983333;0.266491667;0.266491667;282;84;70;98;534;Samsung Honeyboard (Keyboard);system;system;no
+com.anonymous_call;259;1;2.626633333;2.626633333;1.313316667;1;154;174;203;532;Private Call;communication;social;no
+com.sony.songpal.mdr;260;1;1.94935;1.94935;1.94935;1;135;155;238;529;Sony | Sound Connect;tools;tools;no
+com.adobe.reader;261;1;3.6681;3.6681;0.73362;1;173;198;155;527;Adobe Acrobat Reader;work;productivity;yes
+com.iconchanger.customizeapp.shortcut;262;1;1.8923;1.8923;1.8923;1;134;154;235;524;Customize App Icon Changer;personalization;creativity;yes
+com.booking;263;1;3.02785;3.02785;1.009283333;1;162;184;175;522;Booking.com;travel;everyday;yes
+com.ptvag.android.adacgasprices;264;1;3.256316667;3.256316667;0.814079167;1;166;191;163;521;ADAC Drive: Tanken Laden Route;cars;everyday;no
+com.samsung.android.secsoundpicker;264;1;1.883233333;1.883233333;1.883233333;1;133;153;234;521;SecSoundPicker (Benachrichtigungstöne ändern);system;system;no
+com.huawei.hidisk;265;2;0.53975;0.269875;0.179916667;282;85;71;82;520;File Manager;tools;tools;yes
+de.gls.mbank;266;1;2.377366667;2.377366667;1.188683333;1;150;169;191;511;GLS mBank Classic;finance;everyday;yes
+com.xiaomi.hm.health;267;1;3.58225;3.58225;0.597041667;1;171;197;141;510;Zepp Life (Fitnesstracker);tracker;health;yes
+de.dfn.easyroam;268;2;0.388333333;0.194166667;0.194166667;282;76;65;85;508;easyroam;tools;tools;no
+com.samsung.android.easysetup;269;2;0.587533333;0.293766667;0.097922222;282;87;76;61;506;Samsung Connect Easy Setup;system;system;no
+bodyfast.zero.fastingtracker.weightloss;270;1;2.284133333;2.284133333;1.142066667;1;146;167;189;503;BodyFast: Intermittent Fasting;food;everyday;yes
+com.accordion.analogcam;270;1;1.73275;1.73275;1.73275;1;130;149;223;503;OldRoll - Vintage Film Camera;design;creativity;yes
+com.osp.app.signin;270;3;0.3485;0.116166667;0.087125;320;72;56;55;503;Samsung Account;system;system;no
+com.popularapp.periodcalendar;270;2;0.3657;0.18285;0.18285;282;74;64;83;503;Menstruations-Kalender Zyklus;tracker;health;yes
+com.crowdradio.ostseewelle;271;1;2.26735;2.26735;1.133675;1;145;166;187;499;Ostseewelle Radio;audio;entertainment;yes
+de.sparda.banking.app;272;1;1.609016667;1.609016667;1.609016667;1;128;148;215;492;SpardaBanking App;finance;everyday;yes
+de.aoksystems.amg;273;1;2.579083333;2.579083333;0.859694444;1;152;172;166;491;Meine AOK;health_management;health;yes
+com.android.server.telecom;274;8;0.1947;0.0243375;0.008465217;402;59;20;8;489;Telecom-Dienst;system;system;no
+com.aura.oobe.samsung.gl;274;1;2.853483333;2.853483333;0.713370833;1;158;179;151;489;AppCloud;system;system;no
+com.huawei.systemmanager;274;1;2.110816667;2.110816667;1.055408333;1;142;164;182;489;Systemmanager;system;system;no
+com.samsung.android.app.smartcapture;275;4;0.285066667;0.071266667;0.023755556;350;67;47;24;488;Samsung capture;system;system;no
+com.xiaomi.calendar;276;1;1.52495;1.52495;1.52495;1;126;147;213;487;Kalender;productivity;productivity;yes
+org.spielerplus.web;276;1;3.206733333;3.206733333;0.534455556;1;165;189;132;487;SpielerPlus - Teamorganisation;sport;everyday;yes
+com.etsy.android;277;1;2.099633333;2.099633333;1.049816667;1;141;163;181;486;Etsy;shopping;shopping;yes
+com.soundcloud.android;278;1;2.905383333;2.905383333;0.581076667;1;161;181;138;481;SoundCloud;audio;entertainment;yes
+cn.wps.xiaomi.abroad.lite;279;1;1.3924;1.3924;1.3924;1;123;144;206;474;Mi Doc Viewer;work;productivity;yes
+de.aoksystems.ma.abp.app;280;1;1.342616667;1.342616667;1.342616667;1;121;143;204;469;AOK Bonus-App;health_management;health;yes
+com.samsung.knox.securefolder;281;1;1.98035;1.98035;0.990175;1;136;156;174;467;Samsung Knox;tools;tools;no
+com.samsung.android.oneconnect;282;1;2.893466667;2.893466667;0.482244444;1;160;180;125;466;SmartThings (Samsung Smart Home);system;system;no
+in.sweatco.app;283;1;1.301733333;1.301733333;1.301733333;1;119;141;200;461;Sweatcoin Schrittzähler;tracker;health;yes
+de.culture4life.luca;284;1;1.247183333;1.247183333;1.247183333;1;118;139;194;452;luca App;tools;tools;no
+de.payback.client.android;285;1;1.21955;1.21955;1.21955;1;117;138;193;449;PayBack;shopping;shopping;yes
+eu.thalia.app;286;1;1.152266667;1.152266667;1.152266667;1;112;134;190;437;Thalia;shopping;shopping;yes
+com.playgendary.kickthebuddy;287;1;1.13485;1.13485;1.13485;1;111;133;188;433;Kick the Buddy;games;games;yes
+com.linguee.linguee;288;1;2.2936;2.2936;0.382266667;1;147;168;114;430;Linguee;education;education;yes
+com.oplus.wirelesssettings;289;1;2.5879;2.5879;0.287544444;1;153;173;102;429;Wireless Dienst;system;system;no
+com.oneplus.calculator;290;1;1.117766667;1.117766667;1.117766667;1;110;132;185;428;Taschenrechner;tools;tools;no
+com.life360.android.safetymapd;291;1;2.004;2.004;0.501;1;137;157;126;421;Life360: Live Location Sharing;tools;tools;yes
+com.sec.android.app.samsungapps;292;1;1.397716667;1.397716667;0.698858333;1;124;145;149;419;Samsung Galaxy Store;system;system;no
+com.lidl.eci.lidlplus;293;1;1.045783333;1.045783333;1.045783333;1;107;128;180;416;Lidl Plus;groceries;shopping;yes
+com.android.poweroffhandlerapp;294;1;2.163566667;2.163566667;0.270445833;1;144;165;99;409;Systemanwendung;system;system;no
+com.valuephone.vpnetto;295;1;1.842516667;1.842516667;0.460629167;1;132;150;124;407;Netto-App;groceries;shopping;yes
+de.fiduciagad.securego.wl;296;1;0.95275;0.95275;0.95275;1;105;127;172;405;SecureGo plus;finance;everyday;no
+com.oneplus.gallery;297;1;2.008516667;2.008516667;0.334752778;1;138;158;107;404;Gallerie;picture;creativity;yes
+com.huawei.smartshot;298;1;0.9492;0.9492;0.9492;1;104;126;171;402;Screenshots;system;system;no
+com.samsung.android.spay;299;1;2.0555;2.0555;0.2569375;1;140;161;97;399;Samsung Wallet (Samsung Pay);system;system;no
+com.valvesoftware.android.steam.community;300;1;2.030983333;2.030983333;0.253872917;1;139;159;96;395;Steam;games;games;yes
+com.nike.plusgps;301;1;1.44395;1.44395;0.3609875;1;125;146;111;383;Nike Run Club: Laufen & Cardio;fitness;health;yes
+com.huawei.magazine;302;1;0.777916667;0.777916667;0.777916667;1;98;116;162;377;Huawei magazine unlock;system;system;no
+com.webcomics.manga;303;1;1.0611;1.0611;0.53055;1;109;130;131;371;WebComics - Webtoon & Manga;books;entertainment;yes
+buttocksworkout.hipsworkouts.forwomen.legworkout;304;1;0.756933333;0.756933333;0.756933333;1;96;114;159;370;Po Übungen: Straffe Beine & Po;tracker;health;yes
+com.huawei.android.thememanager;305;1;1.045916667;1.045916667;0.522958333;1;108;129;129;367;Theme Manager for Huawei/Honor;system;system;no
+com.adidas.app;306;1;0.749133333;0.749133333;0.749133333;1;95;112;157;365;Adidas;cloths;shopping;yes
+com.htc.aiclient;307;1;0.72785;0.72785;0.72785;1;94;111;153;359;HTC Sense Companion;system;system;no
+com.adobe.psmobile;308;1;0.9137;0.9137;0.45685;1;101;124;123;349;Lightroom;design;creativity;yes
+com.miui.securitycore;309;2;0.0377;0.01885;0.01885;282;32;16;18;348;Sicherheit;system;system;no
+com.brokenreality.planemerger.android;310;1;0.660483333;0.660483333;0.660483333;1;91;106;147;345;Merge Plane;games;games;yes
+periodtracker.pregnancy.ovulationtracker;311;1;0.874333333;0.874333333;0.437166667;1;100;118;121;340;Ovulation & Period Tracker;tracker;health;yes
+com.google.android.apps.chromecast.app;312;1;0.64405;0.64405;0.64405;1;89;104;145;339;Google Home;home;everyday;no
+com.huawei.android.hwouc;313;1;0.6185;0.6185;0.6185;1;88;102;143;334;Software update;system;system;no
+de.axelspringer.yana.zeropage;313;1;0.815883333;0.815883333;0.407941667;1;99;117;117;334;upday News for Samsung;news;news;yes
+com.miui.player;314;1;0.768766667;0.768766667;0.384383333;1;97;115;115;328;Mi Music;audio;entertainment;yes
+com.google.android.apps.walletnfcrel;315;2;0.02705;0.013525;0.013525;282;21;10;11;324;Google Wallet;finance;everyday;yes
+com.huawei.filemanager;316;1;0.559483333;0.559483333;0.559483333;1;86;96;135;318;Dateimanager;system;system;yes
+com.huawei.parentcontrol;316;1;1.213566667;1.213566667;0.110324242;1;116;137;64;318;Huawei Kindersicherung;tools;tools;no
+de.dfb;317;1;0.509266667;0.509266667;0.509266667;1;82;94;128;305;DFB (Fußball);sport;everyday;yes
+com.mediteo.mobile;318;1;0.6492;0.6492;0.3246;1;90;105;105;301;mediteo: Tabletten-Erinnerung;tracker;health;yes
+com.microsoft.xboxone.smartglass;319;1;0.7026;0.7026;0.2342;1;92;108;95;296;Xbox;games;games;yes
+com.kptncook.app.kptncook;320;1;0.368916667;0.368916667;0.368916667;1;75;84;113;273;KptnCook - Rezepte & Kochen;food;everyday;yes
+com.db.pbc.phototan.db;321;1;0.434866667;0.434866667;0.217433333;1;81;90;91;263;Deutsche Bank photoTAN;tools;tools;no
+com.grupet.web.app;322;1;0.5263;0.5263;0.175433333;1;83;95;79;258;Untis Mobile;work;productivity;yes
+de.lineas.lit.ntv.android;323;1;0.32645;0.32645;0.32645;1;70;79;106;256;ntv Nachrichten;news;news;yes
+com.google.android.apps.meetings;324;1;0.3236;0.3236;0.3236;1;69;78;104;252;Google Meet (outdated);communication;social;yes
+com.google.android.apps.tachyon;325;1;0.395233333;0.395233333;0.197616667;1;77;86;87;251;Google Meet;communication;social;yes
+com.wssyncmldm;326;1;0.283333333;0.283333333;0.283333333;1;66;75;101;243;Updatemonitor;system;system;no
+de.congstar.meincongstar;327;1;0.43235;0.43235;0.144116667;1;80;89;71;241;Congstar;tools;tools;no
+de.materna.bbk.mobile.app;328;1;0.278016667;0.278016667;0.278016667;1;65;74;100;240;NINA - Die Warn-App des BBK;misc;everyday;no
+com.xiaomi.simactivate.service;329;1;0.4161;0.4161;0.1387;1;79;88;69;237;Xiaomi SIM Activation Service;system;system;no
+com.huawei.vassistant;330;1;0.34855;0.34855;0.174275;1;73;82;78;234;HUAWEI Assistant;news;news;yes
+com.google.android.markup;331;1;0.329633333;0.329633333;0.164816667;1;71;80;76;228;Markup;system;system;no
+com.miui.securityadd;332;1;0.22495;0.22495;0.22495;1;62;68;93;224;System Service Plugin;system;system;no
+com.android.soundrecorder;333;1;0.2166;0.2166;0.2166;1;61;67;90;219;Tonaufnahme;tools;tools;no
+com.universetoday.moon.free;334;1;0.296683333;0.296683333;0.148341667;1;68;77;72;218;Mondphasen;weather;news;yes
+com.xiaomi.scanner;335;1;0.209116667;0.209116667;0.209116667;1;60;66;89;216;Xiaomi Scanner;tools;tools;no
+tunein.player;336;1;0.276233333;0.276233333;0.138116667;1;64;73;68;206;TuneIn Radio: Musik & Sport;audio;entertainment;yes
+org.iggymedia.periodtracker;337;1;0.272433333;0.272433333;0.136216667;1;63;72;67;203;Flo Period & Pregnancy Tracker;tracker;health;yes
+alarm.clock.calendar.reminder.pro;338;1;0.17665;0.17665;0.17665;1;58;63;80;202;Reminder Pro;productivity;productivity;yes
+com.starstable.friends;339;1;0.17295;0.17295;0.17295;1;57;62;77;197;Star Stable Friends;games;games;yes
+com.huawei.hwid;340;1;0.1524;0.1524;0.1524;1;55;60;75;191;Huawei Mobile Services;system;system;no
+com.android.printspooler;341;1;0.151333333;0.151333333;0.151333333;1;54;59;74;188;Drucker;system;system;no
+com.bestsecret.main;342;1;0.125666667;0.125666667;0.125666667;1;52;57;66;176;BestSecret;cloths;shopping;yes
+com.emoji.keyboard.touchpal.oem;343;1;0.10985;0.10985;0.10985;1;50;54;63;168;TouchPal Keyboard;personalization;creativity;no
+com.clue.android;344;1;0.147683333;0.147683333;0.073841667;1;53;58;52;164;Clue Periodenkalender;tracker;health;yes
+com.sec.android.app.vepreload;344;1;0.101283333;0.101283333;0.101283333;1;49;52;62;164;Samsung Video Editor;design;creativity;yes
+com.android.htmlviewer;345;1;0.09135;0.09135;0.09135;1;48;51;58;158;HTML Viewer;system;system;no
+de.axa.myaxa;346;1;0.083066667;0.083066667;0.083066667;1;47;50;54;152;My AXA Mobile;health_management;health;no
+com.samsung.android.samsungpass;347;1;0.075516667;0.075516667;0.075516667;1;46;48;53;148;Samsung Pass;system;system;no
+de.akquinet.campusapp.greifswald;348;1;0.112233333;0.112233333;0.037411111;1;51;55;40;147;UniNow (Greifswald);productivity;productivity;yes
+com.google.android.apps.setupwizard.searchselector;349;1;0.0687;0.0687;0.0687;1;45;46;51;143;Search Engine Selector;system;system;no
+com.samsung.android.app.cocktailbarservice;350;1;0.067983333;0.067983333;0.067983333;1;44;45;50;140;EdgeScreen;system;system;no
+com.miui.android.fashiongallery;351;1;0.15715;0.15715;0.01964375;1;56;61;21;139;Mi Wallpaper Carousel;system;system;no
+com.douglas.main;352;1;0.053816667;0.053816667;0.053816667;1;40;41;48;130;Douglas – Parfüm & Kosmetik;misc;everyday;yes
+com.google.android.videos;353;1;0.0514;0.0514;0.0514;1;39;40;47;127;Google TV;video;entertainment;yes
+com.oplus.battery;354;1;0.0666;0.0666;0.0333;1;43;44;36;124;Batterie Dienst;system;system;no
+com.tgc.sky.android;355;1;0.04835;0.04835;0.04835;1;38;39;45;123;Sky: Kinder des Lichts;games;games;yes
+com.google.android.tts;356;1;0.045816667;0.045816667;0.045816667;1;37;38;44;120;Speech Recognition & Synthesis;system;system;no
+net.trilliarden.mematic;357;1;0.062983333;0.062983333;0.031491667;1;42;43;32;118;Mematic - Meme Maker;design;creativity;yes
+de.radio.android;358;1;0.042266667;0.042266667;0.042266667;1;36;37;43;117;radio.de - Radio und Podcast;audio;entertainment;yes
+com.narvii.amino.master;359;1;0.03965;0.03965;0.03965;1;35;36;42;114;Amino: Communities und Chats;social;social;yes
+com.huawei.coauthservice;360;1;0.057066667;0.057066667;0.028533333;1;41;42;28;112;HwCoAuthService;system;system;no
+com.android.updater;361;1;0.038883333;0.038883333;0.038883333;1;34;35;41;111;System-Updater;system;system;no
+com.miui.notification;362;1;0.036983333;0.036983333;0.036983333;1;31;33;39;104;Benachrichtigungen-Anwendung;system;system;no
+at.caspari.turnipcalculator;363;1;0.036516667;0.036516667;0.036516667;1;30;32;38;101;Turnip Calculator for ACNH;games;games;yes
+com.marsvard.stickermakerforwhatsapp;364;1;0.034016667;0.034016667;0.034016667;1;29;31;37;98;Sticker Maker;personalization;creativity;yes
+works.jubilee.timetree;365;1;0.033216667;0.033216667;0.033216667;1;28;30;35;94;TimeTree - Shared Calendar;productivity;productivity;yes
+com.android.stk;366;1;0.032483333;0.032483333;0.032483333;1;27;29;34;91;SIM-Toolkit;system;system;no
+com.xiaomi.discover;367;1;0.038583333;0.038583333;0.019291667;1;33;34;20;88;Xiaomi Discover;system;system;no
+it.ncaferra.pixelplayerfree;368;1;0.031733333;0.031733333;0.031733333;1;25;27;33;86;Pixel - Music Player;audio;entertainment;yes
+com.zhiliao.musically.livewallpaper;369;1;0.029;0.029;0.029;1;24;26;31;82;TickTock-TikTok Live Wallpaper;design;creativity;no
+com.huawei.wallet;370;1;0.028883333;0.028883333;0.028883333;1;23;25;30;79;Huawei Wallet;system;system;no
+com.inglesdivino.changecolor;371;1;0.02885;0.02885;0.02885;1;22;24;29;76;Change Color;design;creativity;yes
+com.huawei.android.totemweather;372;1;0.026666667;0.026666667;0.026666667;1;20;23;27;71;Wetter;weather;news;yes
+org.chromium.webapk.a9b1e4b3d184458ca;373;1;0.031733333;0.031733333;0.015866667;1;26;28;14;69;Add to Homescreen Widget;system;system;no
+com.duokan.phone.remotecontroller;374;1;0.0259;0.0259;0.0259;1;19;22;26;68;Mi Remote Controller;tools;tools;no
+com.empat.wory;375;1;0.024816667;0.024816667;0.024816667;1;18;21;25;65;obimy;social;social;yes
+com.google.android.projection.gearhead;376;1;0.020983333;0.020983333;0.020983333;1;17;19;23;60;Android Auto;cars;everyday;no
+com.xiaomi.bluetooth;377;1;0.020283333;0.020283333;0.020283333;1;16;18;22;57;Bluetooth;system;system;no
+com.mdv.VGNCompanion;378;1;0.0191;0.0191;0.0191;1;15;17;19;52;MVV-App;travel;everyday;yes
+com.samsung.android.service.tagservice;379;1;0.018683333;0.018683333;0.018683333;1;14;15;17;47;Galaxy SmartTag;system;system;no
+com.mi.global.bbs;380;1;0.0183;0.0183;0.0183;1;13;14;16;44;Xiaomi Community;social;social;yes
+com.miui.weather2;381;1;0.016816667;0.016816667;0.016816667;1;12;13;15;41;Wetter;weather;news;yes
+org.nativescript.rideNRoll;382;1;0.01525;0.01525;0.01525;1;11;12;13;37;Smap - Skateparks skate spots;sport;everyday;yes
+com.sec.android.easyMover;383;1;0.014466667;0.014466667;0.014466667;1;10;11;12;34;Samsung Smart Switch Mobile;system;system;no
+com.verimi;384;1;0.011566667;0.011566667;0.011566667;1;9;9;10;29;Verimi ID-Wallet;system;system;no
+com.doodle.android;385;1;0.008466667;0.008466667;0.008466667;1;8;8;9;26;Doodle - Termin finden;productivity;productivity;yes
+uk.ac.swansea.eduroamcat;386;1;0.007616667;0.007616667;0.007616667;1;6;6;7;20;eduroam CAT;tools;tools;no
+com.google.android.apps.googleassistant;387;1;0.007933333;0.007933333;0.003966667;1;7;7;4;19;Google Assistant;system;system;no
+com.android.bips;388;1;0.006933333;0.006933333;0.006933333;1;5;5;6;17;Default Print Service;system;system;no
+com.samsung.android.samsungpassautofill;389;1;0.00435;0.00435;0.00435;1;4;4;5;14;Samsung Pass;system;system;no
+com.ignite.qt;390;1;0.00345;0.00345;0.00345;1;3;3;3;10;Project Qt;games;games;yes
+com.miui.mishare.connectivity;391;1;0.002433333;0.002433333;0.002433333;1;2;2;2;7;Mi Share;system;system;no
+com.ethica.logger.externalstreams.appusage;392;1;0.001383333;0.001383333;0.001383333;1;1;1;1;4;Ethica;system;system;no
