@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 882.9 109.9">
+  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #ffcaca;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6 {
+        stroke: #000;
+      }
+
+      .st0, .st1, .st2, .st3, .st6 {
+        fill-opacity: .8;
+        stroke-miterlimit: 10;
+        stroke-width: .2px;
+      }
+
+      .st7, .st8, .st9 {
+        font-size: 11px;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: #fffdd4;
+      }
+
+      .st10, .st11, .st8, .st9 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .st10, .st11, .st9 {
+        isolation: isolate;
+      }
+
+      .st3 {
+        fill: #ffe6c1;
+      }
+
+      .st11 {
+        font-size: 13.2px;
+      }
+
+      .st4 {
+        stroke-linecap: round;
+        stroke-width: .7px;
+      }
+
+      .st4, .st5, .st12 {
+        stroke-linejoin: round;
+      }
+
+      .st13 {
+        fill: #ccc;
+      }
+
+      .st13, .st14 {
+        fill-opacity: .4;
+      }
+
+      .st5, .st12 {
+        fill: none;
+        stroke-width: 4px;
+      }
+
+      .st15 {
+        font-size: 8px;
+      }
+
+      .st12 {
+        stroke: #7d26cd;
+        stroke-dasharray: 5.7 5.7;
+      }
+
+      .st14 {
+        fill: #999;
+      }
+
+      .st6 {
+        fill: #ffd7c1;
+      }
+    </style>
+  </defs>
+  <g id="Inclusion">
+    <line id="Inclusion1" data-name="Inclusion" class="st12" x1="765.6" y1="55.7" x2="818.6" y2="55.7"/>
+    <text class="st10" transform="translate(755.8 78.1)"><tspan class="st7"><tspan x="0" y="0">Inclusion Cutoff</tspan></tspan><tspan class="st15"><tspan x="20.4" y="9.6">(PHQ ≥ 8)</tspan></tspan></text>
+  </g>
+  <g id="Severity">
+    <rect id="_x31_" class="st1" x="15" y="35" width="80" height="40"/>
+    <rect id="_x32_" class="st2" x="95" y="35" width="80" height="40"/>
+    <rect id="_x33_" class="st3" x="175" y="35" width="80" height="40"/>
+    <rect id="_x34_" class="st6" x="255" y="34.9" width="80" height="40"/>
+    <rect id="_x35_" class="st0" x="335" y="34.9" width="80" height="40"/>
+    <text class="st9" transform="translate(37.3 89.2)"><tspan x="0" y="0">Minimal</tspan></text>
+    <text class="st9" transform="translate(124.9 89.6)"><tspan x="0" y="0">Mild</tspan></text>
+    <text class="st9" transform="translate(194.9 89.2)"><tspan x="0" y="0">Moderate</tspan></text>
+    <text class="st9" transform="translate(258.9 89.2)"><tspan x="0" y="0">Moderat-severe</tspan></text>
+    <text class="st9" transform="translate(363.9 89.2)"><tspan x="0" y="0">Severe</tspan></text>
+  </g>
+  <g id="Data_Point">
+    <circle id="Data_Point1" data-name="Data_Point" class="st4" cx="680.6" cy="59.2" r="2.5"/>
+    <text class="st9" transform="translate(657.8 79.8)"><tspan x="0" y="0">Individual</tspan><tspan x="-9.1" y="13.2">Measurement</tspan></text>
+  </g>
+  <g id="Trend">
+    <polygon id="_x37_5_x25__Quantile" class="st13" points="427.5 38.4 507.5 38.4 507.5 83.4 427.5 83.4 427.5 38.4"/>
+    <polygon id="_x35_0_x25__Quantile" class="st14" points="427.5 59.2 507.5 59.2 507.5 84.2 427.5 84.2 427.5 59.2"/>
+    <line id="Mean" class="st5" x1="427.5" y1="85.1" x2="507.5" y2="85.1"/>
+    <text class="st9" transform="translate(514 89)"><tspan x="0" y="0">Mean PHQ Score</tspan></text>
+    <text class="st9" transform="translate(513.8 52.2)"><tspan x="0" y="0">75% Quantile Interval</tspan></text>
+  </g>
+  <text id="Titel" class="st11" transform="translate(15 22.8)"><tspan x="0" y="0">PHQ Interpretation</tspan></text>
+  <text class="st8" transform="translate(513.7 72.9)"><tspan x="0" y="0">50% Quantile Interval</tspan></text>
+</svg>
