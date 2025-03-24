@@ -4,6 +4,8 @@ R Code and Supplemental Material
 
 This repository contains the R code and supplementary materials for a psychology thesis analyzing data from the iCAN pilot study SMARDY.
 
+[![DOI](https://zenodo.org/badge/953910362.svg)](https://doi.org/10.5281/zenodo.15077127)
+
 ## Repository Structure
 
 ```
